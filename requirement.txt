@@ -1,0 +1,10 @@
+matplotlib
+streamlit
+numpy
+pandas
+seaborn
+nltk
+wordcloud
+tensorflow-cpu
+scikit-learn
+keras
